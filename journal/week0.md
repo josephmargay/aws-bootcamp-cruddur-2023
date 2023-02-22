@@ -108,4 +108,5 @@ Assignmens
 * Create a conceptual design of the crudder app using lucid application
 
  link to my submitted work for the conceptual design:  https://lucid.app/lucidchart/invitations/accept/inv_98bf7850-6174-408f-994f-7c549c9c5354
+ 
  link to the logical design: https://lucid.app/lucidchart/invitations/accept/inv_cdcfb3e7-6d31-4ae1-b362-b5f303a1e699
