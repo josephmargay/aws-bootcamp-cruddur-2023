@@ -1,3 +1,4 @@
+
 # Week 0 — Billing and Architecture
 
 Note to Self
@@ -45,8 +46,7 @@ Personas
  Architecture
 
 What is good architecture?
-	Things the project *Must* achieve
-	Can be technical or business oriented
+	Things the project *Must* achieve, it can be technical or business oriented
 	Requirement must be:
 	   * Verifiable
 	   * monitorable
@@ -68,6 +68,7 @@ Addresses the Risks, Assumptions & Constraints
       * Sufficient network bandwidth
       * Stakeholders will be available to make decisions
        * Budget is approved
+
 Constraints are policy or technical limitations for the project
        * Time
        * Budgets
@@ -79,10 +80,12 @@ Conceptual Desing
 	• Created by business stakeholders and architects
 	• Organizes and defines concepts and rules
 	• "Napkin Design"
+	
 Logical Design (blueprint)
 	• Defines how the system should be implemented
 	• Environment without actual names or sizes
 	• Examples: undeployed CFT
+	
 Physical Design
 	• Representation of the actual thing that was built
 	• IP Addresses, EC2 Instances
@@ -93,13 +96,14 @@ It's important to Develop a Common Dictionary
 	• Document everything*
 
 What is TOGAF?
+
 "TOGAF is an architecture framework that provides the methods and tools for assisting in the acceptance, production, use, and maintenance of an enterprise architecture. It is bases on an iterative process model supported by best practices and reusable set of existing architecture assets".
 	• The most popular framework for EA
 	• Common dictionary of words to convey desired outcomes
 	• Meta-model for the creations of the underlying projects
 	• Maps closely to the Well-Architected Tool
 
-
-
-             
-
+Assignmens
+* Create a conceptual design of the crudder app using lucid application
+ link to my submitted work for the conceptual design: https://lucid.app/lucidchart/invitations/accept/inv_98bf7850-6174-408f-994f-7c549c9c5354
+ link to the logical design: https://lucid.app/lucidchart/invitations/accept/inv_cdcfb3e7-6d31-4ae1-b362-b5f303a1e699
