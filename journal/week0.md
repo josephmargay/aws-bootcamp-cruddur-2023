@@ -24,7 +24,7 @@ Note to Self
 	• Technical report due for investors!
 		• Architecture
 		• Budget
-		• Ongoing cost estimate
+
 
 Why User Personas?
 
@@ -64,6 +64,7 @@ Addresses the Risks, Assumptions & Constraints
      * SPoFs
      * user commitment 
      * late Delivery
+     
   Assumptions are factors held as true for the planning & implementation phases
       * Sufficient network bandwidth
       * Stakeholders will be available to make decisions
@@ -76,7 +77,7 @@ Constraints are policy or technical limitations for the project
 
 From gathering the RRACs, you then create your designs:
 
-Conceptual Desing
+Conceptual Design
 	• Created by business stakeholders and architects
 	• Organizes and defines concepts and rules
 	• "Napkin Design"
@@ -105,5 +106,6 @@ What is TOGAF?
 
 Assignmens
 * Create a conceptual design of the crudder app using lucid application
+
  link to my submitted work for the conceptual design:  https://lucid.app/lucidchart/invitations/accept/inv_98bf7850-6174-408f-994f-7c549c9c5354
  link to the logical design: https://lucid.app/lucidchart/invitations/accept/inv_cdcfb3e7-6d31-4ae1-b362-b5f303a1e699
